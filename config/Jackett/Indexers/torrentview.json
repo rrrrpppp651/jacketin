@@ -1,0 +1,20 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "https://torrentview28.com/"
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": "__cfduid=da91b152f20720a043ecaab9079a22c8e1611132471; PHPSESSID=42l5qcfm4lukp5h02g1thd2bt2; 2a0d2363701f23f8a75028924a3af643=NS43OS43NS45"
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": null
+  }
+]
